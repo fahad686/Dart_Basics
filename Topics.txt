@@ -1,0 +1,11 @@
+Dart,
+OOP, 
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+mixins, 
+extension-methods, 
+enums, 
+clean-code, 
+dart-examples
