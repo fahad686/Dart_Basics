@@ -1,0 +1,6 @@
+
+🔹 . OOP Differences Summary
+Concept	Definition	Key Usage	Example
+Abstraction	Hiding complex logic and showing only essential parts	Use abstract class and abstract methods	abstract class Animal
+Encapsulation	Wrapping data and logic together, hiding implementation details	Use private variables and getters/setters	_balance, get balance
+Polymorphism	One function behaving differently based on the object	Use method overriding or optional parameters	animal.speak() in different classes
