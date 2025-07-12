@@ -17,4 +17,14 @@ void main() {
   );
 
   print('${result.name} - ${result.age}');
+
+//Fuzzy Search / Regex Search
+  List<String> names = ["Ali", "Ahmed", "Zara"];
+String query = "a";
+List<String> filtered = names.where((name) => name.toLowerCase().contains(query)).toList();
+
+//map
+Map<String, int> map = {"Ali": 24, "Ahmed": 30};
+bool found = map.containsKey("Ali");
+
 }
